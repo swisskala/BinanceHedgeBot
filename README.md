@@ -1,6 +1,9 @@
 # BinanceHedgeBot
 Binance Futures Trading Bot (ab)using Hedge Mode
 
+USE WITH OWN RISK
+
+
 
 How the Bot works:
 
