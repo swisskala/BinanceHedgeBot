@@ -9,6 +9,9 @@ Under no circumstances will I be held responsible or liable in any way for any c
 
 
 
+
+
+
 How the Bot works:
 
 The Bot continously opens and closes Short Positions, at a given Price (TriggerOpenShortOrder)
